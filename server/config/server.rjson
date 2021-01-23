@@ -1,0 +1,6 @@
+// neogameserver - server config
+
+{
+	host_ip: 127.0.0.1
+	host_port: 4210
+}
